@@ -1,5 +1,5 @@
 {
-  "name": "@strapi/map-picker",
+  "name": "strapi-map-picker",
   "version": "1.0.0",
   "description": "Adds a map to select coordinates in Strapi",
   "strapi": {

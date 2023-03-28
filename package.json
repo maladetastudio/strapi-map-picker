@@ -1,11 +1,15 @@
 {
-  "name": "map-picker",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "name": "@strapi/map-picker",
+  "version": "1.0.0",
+  "description": "Adds a map to select coordinates in Strapi",
   "strapi": {
     "name": "map-picker",
-    "description": "Description of map-picker plugin",
+    "description": "Adds a map to select coordinates in Strapi",
     "kind": "plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maladetastudio/strapi-map-picker.git"
   },
   "dependencies": {
     "@strapi/design-system": "^1.6.3",
@@ -35,11 +39,15 @@
     "styled-components": "^5.3.6"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Maladeta Studio",
+    "email": "info@maladetastudio.com",
+    "url": "https://maladeta.studio"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Maladeta Studio",
+      "email": "info@maladetastudio.com",
+      "url": "https://maladeta.studio"
     }
   ],
   "engines": {
